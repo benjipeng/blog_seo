@@ -1,0 +1,25 @@
+title: Code Optimizer
+email: benji.peng.p@gmail.com
+description: Code Optimizer, A digital haven where the art of programming and science of SEO converge, providing comprehensive tutorials and insights to empower enthusiasts and professionals to craft more searchable, efficient web solutions.
+author: Benji AC
+baseurl: "/seo-blog"
+url: "https://benjipeng.github.io"
+
+# Social Profiles
+twitter_username:
+github_username: benjipeng
+facebook_username:
+instagram_username:
+linkedin_username: benjiph
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
